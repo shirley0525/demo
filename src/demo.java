@@ -14,7 +14,7 @@ public class demo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("demo");
+        System.out.print("demo")
     }
     
 }
